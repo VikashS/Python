@@ -14,6 +14,7 @@ def merge_sort(unsorted_list):
 # Merge the sorted halves3
 #vikash S Created a dag in branch 1
 # Created change and commit from branch and commiting from branch
+# Added comments in master from Git UI
 
 def merge(left_half,right_half):
 
