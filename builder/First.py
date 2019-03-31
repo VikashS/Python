@@ -12,6 +12,7 @@ def merge_sort(unsorted_list):
     return list(merge(left_list, right_list))
 
 # Merge the sorted halves3
+#vikash S Created a dag in branch 1
 
 def merge(left_half,right_half):
 
